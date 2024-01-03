@@ -14,8 +14,10 @@ django-templated-mail==1.1.1
 djangorestframework==3.14.0
 djangorestframework-simplejwt==5.3.1
 djoser==2.2.2
+gunicorn==21.2.0
 idna==3.6
 oauthlib==3.2.2
+packaging==23.2
 psycopg2-binary==2.9.9
 pycparser==2.21
 PyJWT==2.8.0
